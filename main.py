@@ -22,7 +22,7 @@ net = Net()
 print(net)
 
 
-# Visualize our data
+# Visualize our data 
 
 
 x = np.random.rand(100)
