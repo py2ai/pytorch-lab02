@@ -7,7 +7,7 @@ from torch.autograd import Variable
 
 import matplotlib.pyplot as plt
 import numpy as np
-# testing
+# testing 01
 
 class Net(nn.Module):
    def __init__(self):
